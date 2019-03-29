@@ -1,5 +1,6 @@
 # Sample Java Project
-=> black Diamonds like darth Vader
+
+=> You looking at a mid-dealer
 
 This is a reference for setting up a new Ant-based Java project. It
 contains most of the little Ant tricks I've learned over the
